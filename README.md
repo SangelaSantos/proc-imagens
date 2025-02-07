@@ -14,6 +14,6 @@
 ### -Abra o código no Anaconda (Jupyter) e compile.  
  
 >Integrantes:  
-Carlos Eduardo Barreto
-Ramon Silva Viana
-Sangela Santos da Silva
+Carlos Eduardo Barreto  
+Ramon Silva Viana  
+Sangela Santos da Silva 
